@@ -1,0 +1,1 @@
+{"age_median": 28.0, "fare_median": 14.4542, "embarked_mode": "S", "train_columns": ["Pclass", "Sex", "Embarked_Q", "Embarked_S", "FamilySize", "AgeBand", "FareBand"]}

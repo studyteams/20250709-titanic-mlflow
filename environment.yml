@@ -1,0 +1,17 @@
+name: titanic_mlflow
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
+  - ipykernel
+  - openpyxl
+  - pip
+  - pip:
+    - mlflow
